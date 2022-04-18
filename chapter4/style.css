@@ -1,0 +1,44 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  }
+  
+  .box{
+    width: 100%;
+    height: 50px;
+    background-color: red;
+  }
+  
+  .box-visual{
+    width:100%;
+    height:500px;
+    background-color: orange;
+  }
+  
+  main{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .main-visual{
+    width: 960px;
+    height: 1400px;
+    background-color: limegreen;
+  }
+  
+  .main-visual-content{
+    width: 500px;
+    height: 1400px;
+    background-color: green;
+  }
+
+  .fotter{
+    width: 100%;
+    height: 100px;
+    background-color: blue;
+  }
+  
+  
+  
+  
