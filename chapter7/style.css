@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.plant{
+  width: 1000px;
+  height: 400px;
+  background-position: bottom;
+  background-size: cover;
+  background-image: url(img/mv.jpg);
+  
+}
+
+.header-image{
+  height: 400px;
+}
+
+.plant h2{
+  padding: 20px;
+  color: #a9a9a9;
+}
+
+main{
+  width: 1000px;
+  height: 1200px;
+}
+
+.blog{
+  width: 840px;
+  height: 1200px;
+  margin: 0 auto;
+  padding: 50px 0;
+}
+
+.blog-content{
+  padding: 30px;
+  border-top: solid 1px #dcdcdc;
+  border-bottom: solid 1px #dcdcdc;
+}
